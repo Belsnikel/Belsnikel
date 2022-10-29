@@ -8,7 +8,7 @@
 
 <p style="font-size: 16px; font-weight:500; line-height: 22px;">
     I like learning new technologies and practicing them. <br>
-    I`ll coding on any framework that`s based on JS :) <br>
+    I`ll coding on any framework based on JS <br>
 </p>
 
 ### Languages and Tools:
