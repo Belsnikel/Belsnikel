@@ -23,7 +23,7 @@
 ## My Projects:
 
 ## <a href="https://github.com/Belsnikel/weather-app/tree/master" target="_blank">Weather app</a>
-## <a href="https://github.com/Belsnikel/weather-app/tree/master" target="_blank">Select plugin</a>
+## <a href="https://github.com/Belsnikel/Select-plugin" target="_blank">Select plugin</a>
 
 
 ### Socials:
