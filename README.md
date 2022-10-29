@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hello!
 
-<!--
-**Belsnikel/Belsnikel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am Kabolov Oleg
 
-Here are some ideas to get you started:
+<img src="assets/foto.jpg" width="350" alt="Kabolov Oleg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frontend developer
+
+<p style="font-size: 16px; font-weight:500; line-height: 22px;">
+    I like learning new technologies and practicing them. <br>
+    I`ll coding on any framework if it based on JS <br>
+    Now I am looking for a job.
+</p>
+
+### Languages and Tools:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3)
+![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=Sass)
+![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=gulp)
+
+## My Projects:
+
+## <a href="https://github.com/Belsnikel/weather-app/tree/master" target="_blank">Weather app</a>
+## <a href="https://github.com/Belsnikel/weather-app/tree/master" target="_blank">Select plugin</a>
+
+
+### Socials:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Shrought)
