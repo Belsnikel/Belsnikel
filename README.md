@@ -2,7 +2,7 @@
 
 ## I am Kabolov Oleg
 
-<img src="foto.jpg" width="350" alt="Kabolov Oleg">
+<img src="" width="350" alt="Kabolov Oleg">
 
 ## Frontend developer
 
