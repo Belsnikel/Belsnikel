@@ -17,7 +17,7 @@
 ![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=Sass)
-![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=gulp)
+VUE
 
 ## My Projects:
 
