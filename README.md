@@ -1,7 +1,3 @@
-## Hello!
-
-## I am Kabolov Oleg
-
 
 ## Frontend developer
 
