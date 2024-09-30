@@ -14,6 +14,7 @@
 ## My Projects:
 
 ## <a href="https://github.com/Belsnikel/Chatev" target="_blank">Chatev app</a>
+## <a href="https://github.com/Belsnikel/taskManager" target="_blank">Task Manager</a>
 
 
 ### Socials:
